@@ -1,4 +1,4 @@
-# Employee Mangement System - Frontend (Azure, CI/CD)
+# Employee Mangement System - Backend (Azure, CI/CD)
 **This web app has been deployed on Azure and implemented CI/CD.**
 
 The frontend and backed are independently deployed with different Azure app service.

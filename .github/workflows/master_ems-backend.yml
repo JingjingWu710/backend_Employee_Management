@@ -61,4 +61,5 @@ jobs:
           app-name: 'ems-backend'
           slot-name: 'Production'
           package: '*.jar'
-          
+
+      # update something
